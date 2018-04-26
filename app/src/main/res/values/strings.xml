@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">配送情報登録</string>
+    <string name="barcode_header">開始ボタンを押してください</string>
+    <string name="read_barcode">開始</string>
+    <string name="auto_focus">focus</string>
+    <string name="use_flash">flash</string>
+    <string name="barcode_success">バーコードの検出が完了しました</string>
+    <string name="barcode_failure">バーコードを検出できませんでした</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+
+    <string-array name="dvendorList">
+        <item>業者選択</item>
+        <item>ヤマト</item>
+        <item>佐川急便</item>
+        <item>ゆうパック</item>
+        <item>郵便書留</item>
+        <item>西濃運輸</item>
+        <item>福山通運</item>
+    </string-array>
+</resources>
